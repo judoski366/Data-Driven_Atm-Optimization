@@ -1,34 +1,37 @@
 # Data-Driven Strategies for Boosting Customer Retention via ATM Performance Optimization
 
-![](ATM.Jpeg)
+![Atm_pic.jpeg](Atm_pic.jpeg)
 
-## Introduction:
+---
+## Introduction
 
 In today's dynamic banking landscape, customer retention has emerged as a critical metric defining the success of financial institutions. Recognizing the pivotal role of Automated Teller Machines (ATMs) as key touchpoints, facilitating essential banking transactions, we are embarking on a strategic Business Intelligence and Data Analytics project.
 
 This initiative is driven by the imperative to harness data-driven strategies aimed at optimizing ATM performance, with a direct focus on enhancing customer retention rates. By employing sophisticated data analytics techniques, our objective is to glean actionable insights into customer behavior patterns, thereby enabling us to enhance operational efficiency and cultivate enduring customer relationships.
 
-Through this project, we aim to delve deeper into the wealth of data available to us, utilizing advanced analytical tools and methodologies to unlock valuable insights. By doing so, we position ourselves to not only adapt to the evolving banking landscape but also to thrive by delivering enhanced customer experiences and sustained business growth.
+**_Through this project, we aim to delve deeper into the wealth of data available to us, utilizing advanced analytical tools and methodologies to unlock valuable insights. By doing so, we position ourselves to not only adapt to the evolving banking landscape but also to thrive by delivering enhanced customer experiences and sustained business growth._**
 
 
-### Objectives
-
+## Objectives
+---
 In the modern financial landscape, customer retention has become a crucial focus for banks aiming to thrive amidst stiff competition. Our project leverages data analytics and a customer-centric approach to empower financial institutions with the insights and tools needed to bolster customer loyalty. By optimizing ATM performance, banks not only enhance operational efficiency but also cultivate a superior customer experience, fostering lasting relationships and positioning themselves for sustained success.
 
-1. Identify Factors Affecting Customer Retention: I Analyze transaction data and gather customer feedback to identify factors influencing customer retention. Key metrics use includes transaction success rates, wait times, and overall customer experience.
+- Identify Factors Affecting Customer Retention: I Analyze transaction data and gather customer feedback to identify factors influencing customer retention. Key metrics use includes transaction success rates, wait times, and overall customer experience.
 
-2. Analyze ATM Usage Patterns: I Delve into patterns of ATM usage to uncover peak hours, popular days, and seasonal trends by Understanding customer engagement with ATMs is critical to optimizing service availability and ensuring customer satisfaction.
+- Analyze ATM Usage Patterns: I Delve into patterns of ATM usage to uncover peak hours, popular days, and seasonal trends by Understanding customer engagement with ATMs is critical to optimizing service availability and ensuring customer satisfaction.
 
-3. Evaluate ATM Performance: Assessing the performance of individual ATMs and conduct comparisons across different locations. I Identify areas for improvement to prioritize resource allocation and enhance overall ATM performance.
+- Evaluate ATM Performance: Assessing the performance of individual ATMs and conduct comparisons across different locations. I Identify areas for improvement to prioritize resource allocation and enhance overall ATM performance.
 
-4. Optimize ATM Servicing and Maintenance: Evaluate existing maintenance schedules and analyze their correlation with ATM performance metrics. I Optimize servicing procedures to minimize downtime and disruptions. This proactive approach ensures that your ATMs are always operational, enhancing the customer experience.
+- Optimize ATM Servicing and Maintenance: Evaluate existing maintenance schedules and analyze their correlation with ATM performance metrics. I Optimize servicing procedures to minimize 
+  downtime and disruptions. This proactive approach ensures that your ATMs are always operational, enhancing the customer experience.
 
-5. Detect Fraudulent Activities: This project includes Implement robust fraud detection analysis to identify and mitigate potentially fraudulent activities. Safeguard customer trust and      mitigate financial risks by proactively detecting and addressing fraudulent behavior.
+- Detect Fraudulent Activities: This project includes Implement robust fraud detection analysis to identify and mitigate potentially fraudulent activities. Safeguard customer trust and      mitigate financial risks by proactively detecting and addressing fraudulent behavior.
 
 ## Tools use
-Microsoft SQL Server
-Microsoft Power BI Desktop
-Microsoft Fabric to efficiently manage and analyze data. The primary data source for this project is the datakliq_education_hub specifically, their Cohort 3 project dataset.
+---
+ - Microsoft SQL Server
+ - Microsoft Power BI Desktop
+ - Microsoft Fabric to efficiently manage and analyze data. The primary data source for this project is the datakliq_education_hub specifically, their Cohort 3 project dataset.
 
 ## Dataset Description:
 
