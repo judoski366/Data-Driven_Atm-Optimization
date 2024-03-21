@@ -11,6 +11,7 @@ This initiative is driven by the imperative to harness data-driven strategies ai
 
 **_Through this project, we aim to delve deeper into the wealth of data available to us, utilizing advanced analytical tools and methodologies to unlock valuable insights. By doing so, we position ourselves to not only adapt to the evolving banking landscape but also to thrive by delivering enhanced customer experiences and sustained business growth._**
 
+![Data_analyst_board.jpeg](Data_analyst_bpard.jpeg)
 
 ## Objectives
 ---
@@ -26,6 +27,7 @@ In the modern financial landscape, customer retention has become a crucial focus
   downtime and disruptions. This proactive approach ensures that your ATMs are always operational, enhancing the customer experience.
 
 - Detect Fraudulent Activities: This project includes Implement robust fraud detection analysis to identify and mitigate potentially fraudulent activities. Safeguard customer trust and      mitigate financial risks by proactively detecting and addressing fraudulent behavior.
+
 
 ## Tools use
 ---
@@ -45,6 +47,33 @@ The dataset consists of multiple dimension tables and one fact table, providing 
 6. Transaction Type Table: Describes various types of transactions that can occur at ATMs, such as cash withdrawals, balance inquiries, and fund transfers. This table categorizes transaction activities for further analysis and classification.
 7. Transaction Table (Fact Table): The central table containing detailed information about ATM transactions across five different states in Nigeria, namely Lagos, Enugu, FCT (Federal Capital Territory), Rivers, and Kano. Each transaction record includes data such as transaction ID, transaction timestamp, customer ID, ATM location, transaction type, and transaction amount. This fact table serves as the primary source for analyzing transactional data and deriving insights into ATM usage patterns, customer behavior, and performance metrics across different states.
 
+## Data Dictionary
+
+The data dictionary is a valuable resource that offers clear explanations for the structure of tables and columns in our dataset. It provides concise definitions to help understand the organization and meaning of the data, facilitating our data analysis efforts.
+
+## Data Transformation
+
+Most data transformation tasks were conducted using Microsoft SQL Server. These processes involved various operations such as:
+
+1. Appending Data:  Combining or appending data from multiple sources to create comprehensive datasets.
+
+2. Generating New Calendar Tables: Creating new calendar tables to facilitate time-based analysis and reporting.
+
+3. Creating Bridge Tables: Developing bridge tables to establish relationships between different tables, such as linking the transaction table with the maintenance table.
+
+4. Utilizing Alter and Update Functions: Employing the alter and update functions to modify specific tables, allowing for adjustments and enhancements as needed.
+
+These transformation processes were essential for preparing the data for analysis and ensuring its integrity and relevance for our project objectives.
+
+## Data Modelling
+
+Snowflake Model Implementation: I implemented the snowflake model to connect all my facts and dimensions seamlessly. This model organizes data into a structured hierarchy, with the central fact table surrounded by multiple related dimension tables. By utilizing this model, I ensured efficient data organization and simplified analysis workflows.
+
+Import Storage Mode in Power BI: To bring my data into Power BI, I used the import storage mode. This mode allows for faster data retrieval and analysis by loading the entire dataset into memory. It enables seamless interaction with the data and facilitates real-time insights.
+
+Establishing Relationships : In Power BI, I established relationships between various tables to enable smooth data integration and analysis. Most of these relationships have a many-to-one cardinality, indicating that multiple records from the dimension tables can relate to a single record in the fact table. Additionally, a single filter direction was applied to ensure consistent filtering across related tables, enhancing the coherence and accuracy of the analysis.
+
+
 ## Analysis And Visualization 
 1. Total Transactions and Record Month: Over a comprehensive two-year analysis spanning 2020 to 2021, a total of 6.52 million ATM transactions were recorded May 2021 emerged as a       
       noteworthy month, setting a record, indicating potential economic or seasonal influences during that period
@@ -62,6 +91,8 @@ The dataset consists of multiple dimension tables and one fact table, providing 
 7. Maintenance Analysis: In 2021, a maintenance analysis revealed well-maintained ATMs such as Abakpa, Apapa, Lekki, Eleme, Dala, Maitama, and Nkanu, with 5–4-star ratings.  Conversely,     ATMs with lower maintenance ratings included Bonny, Ahoda, Gokana, Surulere, Tarauni, Ungogo, and Udi, with 0–3-star ratings.
 
 Optimization Strategies The analysis emphasizes the importance of enhancing maintenance for less-maintained ATMs and prioritizing those located in skilled environments.  Advocates for adopting data-driven optimization strategies to improve customer experiences and overall efficiency in the realm of ATMs.
+
+
 
 ## Recommendation
 
