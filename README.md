@@ -1,5 +1,8 @@
 # Data-Driven Strategies for Boosting Customer Retention via ATM Performance Optimization
-#Introduction:
+
+![](ATM.Jpeg)
+
+## Introduction:
 
 In today's dynamic banking landscape, customer retention has emerged as a critical metric defining the success of financial institutions. Recognizing the pivotal role of Automated Teller Machines (ATMs) as key touchpoints, facilitating essential banking transactions, we are embarking on a strategic Business Intelligence and Data Analytics project.
 
@@ -8,7 +11,7 @@ This initiative is driven by the imperative to harness data-driven strategies ai
 Through this project, we aim to delve deeper into the wealth of data available to us, utilizing advanced analytical tools and methodologies to unlock valuable insights. By doing so, we position ourselves to not only adapt to the evolving banking landscape but also to thrive by delivering enhanced customer experiences and sustained business growth.
 
 
-#Objectives
+### Objectives
 
 In the modern financial landscape, customer retention has become a crucial focus for banks aiming to thrive amidst stiff competition. Our project leverages data analytics and a customer-centric approach to empower financial institutions with the insights and tools needed to bolster customer loyalty. By optimizing ATM performance, banks not only enhance operational efficiency but also cultivate a superior customer experience, fostering lasting relationships and positioning themselves for sustained success.
 
@@ -20,14 +23,14 @@ In the modern financial landscape, customer retention has become a crucial focus
 
 4. Optimize ATM Servicing and Maintenance: Evaluate existing maintenance schedules and analyze their correlation with ATM performance metrics. I Optimize servicing procedures to minimize downtime and disruptions. This proactive approach ensures that your ATMs are always operational, enhancing the customer experience.
 
-5.Detect Fraudulent Activities: This project includes Implement robust fraud detection analysis to identify and mitigate potentially fraudulent activities. Safeguard customer trust and mitigate financial risks by proactively detecting and addressing fraudulent behavior.
+5. Detect Fraudulent Activities: This project includes Implement robust fraud detection analysis to identify and mitigate potentially fraudulent activities. Safeguard customer trust and      mitigate financial risks by proactively detecting and addressing fraudulent behavior.
 
-#Tools use
+## Tools use
 Microsoft SQL Server
 Microsoft Power BI Desktop
 Microsoft Fabric to efficiently manage and analyze data. The primary data source for this project is the datakliq_education_hub specifically, their Cohort 3 project dataset.
 
-#Dataset Description:
+## Dataset Description:
 
 The dataset consists of multiple dimension tables and one fact table, providing comprehensive information for analyzing ATM transactions across various states in Nigeria.
 
@@ -39,7 +42,7 @@ The dataset consists of multiple dimension tables and one fact table, providing 
 6. Transaction Type Table: Describes various types of transactions that can occur at ATMs, such as cash withdrawals, balance inquiries, and fund transfers. This table categorizes transaction activities for further analysis and classification.
 7. Transaction Table (Fact Table): The central table containing detailed information about ATM transactions across five different states in Nigeria, namely Lagos, Enugu, FCT (Federal Capital Territory), Rivers, and Kano. Each transaction record includes data such as transaction ID, transaction timestamp, customer ID, ATM location, transaction type, and transaction amount. This fact table serves as the primary source for analyzing transactional data and deriving insights into ATM usage patterns, customer behavior, and performance metrics across different states.
 
-Analysis And Visualization 
+## Analysis And Visualization 
 1. Total Transactions and Record Month: Over a comprehensive two-year analysis spanning 2020 to 2021, a total of 6.52 million ATM transactions were recorded May 2021 emerged as a       
       noteworthy month, setting a record, indicating potential economic or seasonal influences during that period
 
@@ -57,7 +60,7 @@ Analysis And Visualization
 
 Optimization Strategies The analysis emphasizes the importance of enhancing maintenance for less-maintained ATMs and prioritizing those located in skilled environments.  Advocates for adopting data-driven optimization strategies to improve customer experiences and overall efficiency in the realm of ATMs.
 
-###Recommendation
+## Recommendation
 
 Develop comprehensive maintenance efficiency metrics by setting benchmarks for response time, error rates, and success rates. Regularly monitor these metrics and implement targeted improvements to ensure optimal ATM reliability and user satisfaction.
 
