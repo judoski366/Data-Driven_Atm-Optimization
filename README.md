@@ -70,7 +70,7 @@ Most data transformation tasks were conducted using Microsoft SQL Server. These 
 
  These transformation processes were essential for preparing the data for analysis and ensuring its integrity and relevance for our project objectives.
 
-![](Transformation.png)  ![](Transformation1.png)
+![](Transformation.png)
 
 ## Data Modelling
 
@@ -102,11 +102,8 @@ Most data transformation tasks were conducted using Microsoft SQL Server. These 
 
 Optimization Strategies The analysis emphasizes the importance of enhancing maintenance for less-maintained ATMs and prioritizing those located in skilled environments.  Advocates for adopting data-driven optimization strategies to improve customer experiences and overall efficiency in the realm of ATMs.
 
-![](Atm_Overview1.png)
-![](Atmtransaction1.png)
+![](atm_overview.jpg)  ![](atm_transaction.jpg)
 
-git rm path/to/your/Atm_Overview1.png
-git rm path/to/your/Atmtransaction1.pngg
 ---
 ## conclusion
 
