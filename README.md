@@ -105,6 +105,8 @@ Optimization Strategies The analysis emphasizes the importance of enhancing main
 ![](Atm_Overview1.png)
 ![](Atmtransaction1.png)
 
+git rm path/to/your/Atm_Overview1.png
+git rm path/to/your/Atmtransaction1.pngg
 ---
 ## conclusion
 
