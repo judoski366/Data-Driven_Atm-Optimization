@@ -129,7 +129,7 @@ This analysis underscores the critical role of data-driven optimization in ATM m
 ## Additional Resources
 **_To interact with the report, click[here](https://app.powerbi.com/view?r=eyJrIjoiMjY3MmE5NTktYmE1My00M2MwLThhZTItMTI1MGY2NWU4MmFkIiwidCI6IjJhODNjODMyLTMxMzItNDlhNC05Mjc1LTg2YWQzYzM2YzIyNSJ9&pageName=ReportSectionfbcf7ed0deed9c573d55)_**
 
-![](thank-you-logo.png)
+
 
 
 
