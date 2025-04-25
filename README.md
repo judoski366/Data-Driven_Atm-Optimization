@@ -34,7 +34,7 @@ In the modern financial landscape, customer retention has become a crucial focus
 
  - Microsoft SQL Server
  - Microsoft Power BI Desktop
- - Microsoft Fabric to efficiently manage and analyze data. The primary data source for this project is the datakliq_education_hub specifically, their Cohort 3 project dataset.
+ - The primary data source for this project is the datakliq_education_hub specifically, their Cohort 3 project dataset.
 
 ---
 ## Dataset Description:
