@@ -5,15 +5,15 @@
 ## Table Of Content
  - [Introduction](#Introduction)
  - [Objectives](#Objectives)
- - [Tools use](#Toolsuse)
+ - [Tools use](#Tools-use)
  - [Dataset Description](#Dataset-Description)
- - [Data Dictionary](#Data_Dictionary)
- - [Data Transformation](#Data_Transformation)
- - [Data Modelling](#Data_Modelling)
- - [Analysis And Visualization](#Analysis_And_Visualization)
+ - [Data Dictionary](#Data-Dictionary)
+ - [Data Transformation](#Data-Transformation)
+ - [Data Modelling](#Data-Modelling)
+ - [Analysis And Visualization](#Analysis-And-Visualization)
  - [Conclusion](#Conclusion)
  - [Recommendation](#Recommendation)
- - [Additional Resources](#Additional_Resources)
+ - [Additional Resources](#Additional-Resources)
 
 ---
 ## Introduction
