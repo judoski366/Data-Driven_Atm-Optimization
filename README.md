@@ -2,6 +2,19 @@
 
 ![](Atm_pic.jpg)
 
+## Table Of Content
+ - [Introduction](#Introduction)
+ - [Objectives](#Objectives)
+ - [Tools use](#Toolsuse)
+ - [Dataset Description](#Dataset_Description)
+ - [Data Dictionary](#Data_Dictionary)
+ - [Data Transformation](#Data_Transformation)
+ - [Data Modelling](#Data_Modelling)
+ - [Analysis And Visualization](#Analysis_And_Visualization)
+ - [Conclusion](#Conclusion)
+ - [Recommendation](#Recommendation)
+ - [Additional Resources](#Additional_Resources)
+
 ---
 ## Introduction
 
@@ -37,7 +50,7 @@ In the modern financial landscape, customer retention has become a crucial focus
  
 
 ---
-## Dataset Description:
+## Dataset Description
 
 The dataset consists of multiple dimension tables and one fact table, providing comprehensive information for analyzing ATM transactions across various states in Nigeria.
 
@@ -105,7 +118,7 @@ Optimization Strategies The analysis emphasizes the importance of enhancing main
 ![](atm_overview.jpg)  ![](atm_transaction.jpg)
 
 ---
-## conclusion
+## Conclusion
 
 This analysis underscores the critical role of data-driven optimization in ATM management. Prioritizing enhanced maintenance for ATMs with lower service frequency and strategically focusing on machines in high-traffic areas are key strategies to improve customer experience and overall ATM network efficiency.  By implementing these data-driven optimization tactics, we can ensure ATMs remain reliable and accessible, ultimately fostering a more positive customer experience.
  _.click here to view full report._
